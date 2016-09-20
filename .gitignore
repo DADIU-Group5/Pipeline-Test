@@ -1,3 +1,9 @@
+# custom rules
+/Assets/Local/
+/Assets/Wwise/
+
+# Default unity gitignore
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
